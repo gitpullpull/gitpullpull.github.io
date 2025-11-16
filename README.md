@@ -1,1 +1,1 @@
-# gitpullpull.github.io
+雑リンク集です。
