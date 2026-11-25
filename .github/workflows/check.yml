@@ -1,0 +1,25 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: 生成物が profile.json と一致するか
+        run: python3 tools/build.py --check
+      - name: 検証ツールの依存関係
+        run: |
+          (cd tools/verify && npm install --no-audit --no-fund)
+          pip install -r tools/verify/requirements.txt
+      - name: AI 向け抽出器で主要情報が残るか
+        run: python3 tools/verify/extractors.py

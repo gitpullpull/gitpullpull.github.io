@@ -1,0 +1,6 @@
+trafilatura
+html2text
+markdownify
+readability-lxml
+lxml_html_clean
+beautifulsoup4

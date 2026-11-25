@@ -1,0 +1,67 @@
+{
+  "name": "gitpullpull",
+  "site_url": "https://page.gitpullpull.me/",
+  "tagline": ["手を動かすのが好きな", "機械学習エンジニア"],
+  "role": { "en": "ML Engineer", "ja": "機械学習エンジニア" },
+  "born": { "year": 2004, "label": "’04" },
+  "grades": [
+    { "fiscal_year": 2026, "until": "2027-03-31", "label": "B4", "ja": "学部4年" },
+    { "fiscal_year": 2027, "until": "2028-03-31", "label": "M1", "ja": "修士1年" },
+    { "fiscal_year": 2028, "until": "2029-03-31", "label": "M2", "ja": "修士2年" }
+  ],
+  "links": [
+    { "key": "X", "label": "X (Twitter)", "handle": "@gitpullpull", "url": "https://x.com/gitpullpull" },
+    { "key": "GitHub", "label": "GitHub", "handle": "gitpullpull", "url": "https://github.com/gitpullpull" }
+  ],
+  "log": [
+    {
+      "year": 2024,
+      "title": "seccamp'24",
+      "desc": "AIセキュリティクラス",
+      "detail": "セキュリティ・キャンプ2024 全国大会（seccamp'24）参加 — 専門Dクラス「AIセキュリティクラス」",
+      "source": "https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/program/d.html"
+    },
+    {
+      "year": 2025,
+      "title": "CODE BLUE'25",
+      "desc": "学生スタッフ",
+      "detail": "CODE BLUE 2025（CODE BLUE'25）学生スタッフ"
+    },
+    {
+      "year": 2026,
+      "title": "人工知能学会'26 全国大会優秀賞",
+      "desc": "D-CoT 小型言語モデルにおけるChain-of-Thoughtの効率化",
+      "link": { "label": "ai-gakkai.or.jp", "url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/" },
+      "detail": "人工知能学会 2026年度（第40回）全国大会 全国大会優秀賞（ポスターセッション発表部門）— 「D-CoT 小型言語モデルにおけるChain-of-Thoughtの効率化」[1Yin-B-16]",
+      "source_label": "受賞者一覧",
+      "award": "人工知能学会 2026年度（第40回）全国大会 全国大会優秀賞（ポスターセッション発表部門）「D-CoT 小型言語モデルにおけるChain-of-Thoughtの効率化」"
+    }
+  ],
+  "log_blank_rows": 2,
+  "about": [
+    {
+      "label": "興味のあるもの",
+      "knows_about": true,
+      "items": [
+        { "text": "事後学習(SFT/GRPO)" },
+        { "text": "MLOps" },
+        { "text": "自宅鯖", "note": "自宅サーバー" },
+        { "text": "セキュリティ" }
+      ]
+    },
+    {
+      "label": "OSSコントリビュート",
+      "items": [{ "text": "Unsloth", "url": "https://github.com/unslothai/unsloth" }]
+    },
+    {
+      "label": "インフラ",
+      "knows_about": true,
+      "items": [{ "text": "Proxmox" }, { "text": "Docker" }, { "text": "Cloudflare Tunnel" }, { "text": "RunPod" }]
+    }
+  ],
+  "references": [
+    { "label": "セキュリティ・キャンプ2024 全国大会 Dクラス", "url": "https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/program/d.html", "note": "AIセキュリティクラスの概要" },
+    { "label": "人工知能学会 全国大会優秀賞 受賞者一覧", "url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/", "note": "2026年度（第40回）ポスターセッション発表部門に [1Yin-B-16] として掲載" },
+    { "label": "Unsloth", "url": "https://github.com/unslothai/unsloth", "note": "OSSコントリビュート先" }
+  ]
+}

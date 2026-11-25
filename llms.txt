@@ -2,22 +2,22 @@
 
 > 手を動かすのが好きな機械学習エンジニア（ML Engineer）gitpullpull の個人サイト（https://page.gitpullpull.me/）。X: https://x.com/gitpullpull / GitHub: https://github.com/gitpullpull
 
-gitpullpull は2004年生まれの機械学習エンジニアで、2026年度は学部4年（B4）です。事後学習（SFT / GRPO）、MLOps、自宅鯖、セキュリティに関心があり、Unsloth にOSSコントリビュートしています。インフラは Proxmox / Docker / Cloudflare Tunnel / RunPod を使っています。
+gitpullpull は2004年生まれの機械学習エンジニアで、2026年度は学部4年（B4）です。興味のあるもの: 事後学習(SFT/GRPO) / MLOps / 自宅鯖 / セキュリティ。OSSコントリビュート: Unsloth。インフラ: Proxmox / Docker / Cloudflare Tunnel / RunPod。
 
 実績:
 
 - 2024: セキュリティ・キャンプ2024 全国大会（seccamp'24）参加 — 専門Dクラス「AIセキュリティクラス」
-- 2025: CODE BLUE 2025 学生スタッフ
+- 2025: CODE BLUE 2025（CODE BLUE'25）学生スタッフ
 - 2026: 人工知能学会 2026年度（第40回）全国大会 全国大会優秀賞（ポスターセッション発表部門）— 「D-CoT 小型言語モデルにおけるChain-of-Thoughtの効率化」[1Yin-B-16]
 
 ## プロフィール
 
 - [プロフィール全文（Markdown）](https://page.gitpullpull.me/index.md): サイトの内容をMarkdownにしたもの
-- [X (Twitter) @gitpullpull](https://x.com/gitpullpull): X のアカウント
+- [X (Twitter) @gitpullpull](https://x.com/gitpullpull): X (Twitter) のアカウント
 - [GitHub gitpullpull](https://github.com/gitpullpull): GitHub のアカウント
 
 ## Optional
 
-- [人工知能学会 全国大会優秀賞 受賞者一覧](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/): 2026年度（第40回）ポスターセッション発表部門に [1Yin-B-16] として掲載
 - [セキュリティ・キャンプ2024 全国大会 Dクラス](https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/program/d.html): AIセキュリティクラスの概要
+- [人工知能学会 全国大会優秀賞 受賞者一覧](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/): 2026年度（第40回）ポスターセッション発表部門に [1Yin-B-16] として掲載
 - [Unsloth](https://github.com/unslothai/unsloth): OSSコントリビュート先

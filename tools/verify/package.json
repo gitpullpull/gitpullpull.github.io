@@ -1,0 +1,11 @@
+{
+  "name": "site-verify",
+  "private": true,
+  "type": "module",
+  "description": "index.html が AI 向け抽出器・見た目の両面で壊れていないかを確かめる検証ツール（tools/verify/README は AGENTS.md）",
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^26.1.0",
+    "turndown": "^7.2.0"
+  }
+}
