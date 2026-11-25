@@ -37,6 +37,25 @@
 - Cloudflare Tunnel
 - RunPod
 
+## サイト上の表示テキスト（原文そのまま）
+
+```text
+手を動かすのが好きな 機械学習エンジニア
+ML Engineer ’04 B4
+gitpullpull
+X @gitpullpull https://x.com/gitpullpull
+GitHub gitpullpull https://github.com/gitpullpull
+潜る
+log 実績
+'24 seccamp'24 AIセキュリティクラス
+'25 CODE BLUE'25 学生スタッフ
+'26 人工知能学会'26 全国大会優秀賞 D-CoT 小型言語モデルにおけるChain-of-Thoughtの効率化 ai-gakkai.or.jp https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/
+興味のあるもの: 事後学習(SFT/GRPO) / MLOps / 自宅鯖 / セキュリティ
+OSSコントリビュート: Unsloth
+インフラ: Proxmox / Docker / Cloudflare Tunnel / RunPod
+↑ 水面へ X https://x.com/gitpullpull GitHub https://github.com/gitpullpull
+```
+
 ## このページについて
 
 - https://page.gitpullpull.me/ の内容をそのままテキストにしたものです。
